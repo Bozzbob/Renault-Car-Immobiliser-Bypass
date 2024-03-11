@@ -1,0 +1,1 @@
+start DOSBox.exe -exit -noconsole -c "mount C . " -c "C:" -c "C:\RENAUL~1.EXE" 
